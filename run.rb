@@ -1,4 +1,4 @@
-require 'restclient'
+require 'rest_client'
 require 'ostruct'
 require 'date'
 require 'open-uri'
